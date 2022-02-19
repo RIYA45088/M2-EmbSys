@@ -13,3 +13,22 @@ There are many types of temperature sensors, but, the most common way to categor
 -   Defines the temperatures at which the sensor is rated to operate safely.
 -   Provide accurate measurements.
 
+## Advantages
+- Very wide temperature range about -200oC to +2500oC
+- Fast response time
+- They are a simple construction
+- Low initial cost
+- Durable
+- Easy to read has a clear screen and good scale
+- Quick response for any temperature changes
+- Precision accuracy in temperature measurement
+- It is not easily broken good durability
+
+ ## Disadvantages
+ - Not as stable as RTD
+ - Recalibration is difficult
+ - More susceptible to RFI/EMI
+ - They are nonlinear
+ - It is used for only temperature measurement only
+ - They have a low output voltage
+ - Less sensitivity
