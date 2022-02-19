@@ -32,3 +32,20 @@ There are many types of temperature sensors, but, the most common way to categor
  - It is used for only temperature measurement only
  - They have a low output voltage
  - Less sensitivity
+ - 
+ ### High Level Requirements
+
+| **ID** | **Description** | **Status** |
+| --- | --- | --- |
+| HLR1 | User shall be able to sense the temperature |  |
+| HLR2 | User shall be able to compare the temperature |  |
+| HLR3 | User shall be able to sense and give signal to the system |  |
+| HLR4 | User shall be able to control the temperature of the system |  |
+
+### Low Level Requirements
+
+| **ID** | **Description** | **Status** |
+| --- | --- | --- |
+| LLR1 | Temperature should be implemented on the screen |  |
+| LLR2 | If there is no person then the system should be turn off |  |
+
