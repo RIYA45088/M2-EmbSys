@@ -16,5 +16,14 @@
   
   ## System Status
   It is a series of consecutive thermodynamic processes that form a cycle that returns the working substance to the same state.
+  
+  ## LCD
+  A liquid-crystal display (LCD) is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid.
+  
+  ## User Interface
+  The user interface (UI) is the point at which human users interact with a computer, website or application. The goal of effective UI is to make the user's experience easy and      intuitive, requiring minimum effort on the user's part to receive maximum desired outcome.
+  
+  ## Serial comm.
+  Serial communication is used for all long-haul communication and most computer networks, where the cost of cable and synchronization difficulties make parallel communication impractical. 
 
 
