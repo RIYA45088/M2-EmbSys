@@ -1,5 +1,4 @@
-![Simple Embbeded Diagram drawio](https://user-images.githubusercontent.com/98817564/154815910-c5e95a2c-b5a9-44dc-b4d7-f865ca5819e9.png)
-
+![Simple Embbeded Diagram](https://user-images.githubusercontent.com/98817564/154834445-d9bbc563-3934-48a5-bcac-a08011cdae0d.png)
 ## Microcontroller
  microcontrollers (MCUs) are used for motor control, analog sensor measurements, front panel keypad control, and LED/LCD displays.
  
