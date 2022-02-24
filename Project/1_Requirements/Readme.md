@@ -43,9 +43,8 @@ Heated front seats not only offer luxurious comfort, relaxation and benefits for
 The car seats
 
 ## Why
-Heating system in your vehicle is designed to keep you warm, comfortable, and many more advantages. It helps to reduce the pain for the old persons the hot seats gives the relaxation to them.
+Heating system in our vehicle is designed to keep us warm, comfortable, and many more advantages. It helps to reduce the pain for the old persons & in  relaxation of body.
 
 ## How
-The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on again. 
-
+The longer the seat cushion stays on, the hotter it gets. If it  stayed "on" for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat closes to keep the coolant inside the engine from travelling through the entire cooling system. Once the engine warms up enough, the thermostat opens and helps in cooling down the engine.
 
