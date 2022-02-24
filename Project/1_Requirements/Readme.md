@@ -10,7 +10,7 @@ A heating system is a mechanism for maintaining temperatures at an acceptable le
 - Heater core
 - Thermostat
 
-## SWOT Analysis
+# SWOT Analysis
 
 ## Strength
 - Energy Saving
@@ -32,21 +32,20 @@ A heating system is a mechanism for maintaining temperatures at an acceptable le
 - will consume less energy.
 - cost less money to operate.
 
-## 4W and 1H
-**What:**
+# 4W and 1H
+## What
 Heated seats can make cars  more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car's seat warmer is close to your body allowing you to warm up faster.
 
-**When:**
+## When
 Heated front seats not only offer luxurious comfort, relaxation and benefits for physical health, but also increase safety. Heating seats and backrests ensures a high level of well-being and prevents a cramped posture. Winter clothes limiting freedom of movement can be dispensed with. This also results in better operation of the restraint system by reducing the slack in safety belts. People with back or kidney problems benefit from a possible reduction of pain. It is mostly used in cars.
 
-**Where:**
+## Where
 The car seats
 
-**Why:**
+## Why
 Heating system in your vehicle is designed to keep you warm, comfortable, and many more advantages. It helps to reduce the pain for the old persons the hot seats gives the relaxation to them.
-**How:**
-The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on again. Many seat cushions also have “high” and “low” settings that let the driver control the temperature of the seat cushions.
 
-
+## How
+The longer the seat cushion stays on, the hotter it gets. If it were to stay on for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat measures the temperature in the cushion. When it reaches a certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on again. 
 
 
