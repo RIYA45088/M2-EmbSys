@@ -1,4 +1,5 @@
-![Block Diagram](https://user-images.githubusercontent.com/98817564/155650808-60db9a57-88ee-401e-9c94-1df37362dfa6.png)
+![Block Diagram png1](https://user-images.githubusercontent.com/98817564/155667974-4a3d480e-992c-4cb6-bf24-68fda4cdb330.png)
+
 # Microcontroller
 Microcontroller enables to measure the heat output as well as control a circulation pump.
 # Sensors
