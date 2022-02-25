@@ -48,5 +48,23 @@ Heating system in our vehicle is designed to keep us warm, comfortable, and many
 ## How
 The longer the seat cushion stays on, the hotter it gets. If it  stayed "on" for too long, it would get hot enough to become uncomfortable or even dangerous to sit in. It could even start a fire in the cushion. To prevent this, most car seat heaters have a thermostat. The thermostat closes to keep the coolant inside the engine from travelling through the entire cooling system. Once the engine warms up enough, the thermostat opens and helps in cooling down the engine.
 
+## Details requirements
+### High Level Requirements:
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | When the two switches are closed, the first LED glows indicating the actuation of the system and the heater. | |
+|HLR2  | Next the analog input from the temperature sensor is received and digitized.| |
+|HLR3  | The hard disk must be 4 GB . |	|
+|HLR4  | The web browser must be Microsoft Internet Explorer with a resolution of at least 800 \* 600. |	|
+
+#### Low Level Requirements:
+
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | The digitized temperature input is visualized using Pulse Width Modulation.| 
+| LLR2 | The system runs effectively on Windows 2000 server but it will also run equally well on compatible operating systems.  | |
+| LLR3 | The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.| | 
+ 
+
 
 
