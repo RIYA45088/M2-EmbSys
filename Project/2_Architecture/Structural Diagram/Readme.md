@@ -14,6 +14,7 @@
 Heater Core used in heating the cabin of a vehicle. The heater core is a small 'radiator' that is connected to the engine cooling system.
 
 # Heating Control Engine
+The warmth from the engine goes from the radiator to the heater core, which basically acts as a heat exchanger. It allows coolant to flow through, and this flow of coolant is regulated by the heater control valve. As the engine's heat is carried by coolant into the heater core, the device starts to get warm.
 
 # Water Pump
 A working water pump is vital for the engine; if the water pump doesn't work, the engine will overheat. water pump doesn't need to be changed in regular mileage intervals.The water pump delivers the flow of coolant through the system.
