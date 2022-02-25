@@ -1,4 +1,4 @@
-# Strucural Diagram 
+# Structural Diagram 
 
 
 
