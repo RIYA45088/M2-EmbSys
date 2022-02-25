@@ -1,10 +1,12 @@
 # Structural Diagram 
 
-
+## High Level Diagram
 
 ![Structural Diagram png](https://user-images.githubusercontent.com/98817564/155713294-be9f8e1e-bf42-4a06-b312-2cfef5103023.jpg)
 
 ## Components Used
+
+### Low Level Diagram
 
 ![Structural Diagram png](https://user-images.githubusercontent.com/98817564/155724258-2d726c05-09fd-43ea-8878-25d478d96fbb.png)
 
@@ -34,6 +36,12 @@ The blower motor turns the blower fan, sending the air through your air ducts an
  
  # Cabin Air Filter
  An air cabin filter is an important component in any vehicle's heating System. It helps protect the passengers from contaminants in the air they breathe.
+ 
+ # Fresh Air
+ Adding fresh air to a heating system accomplishes two primary indoor air quality goals. It pressurizes a building and increases indoor air quality by diluting  polluted or stale indoor air.
+ 
+ # Coolant Expansion Tank
+  It allows the coolant, the antifreeze, and the air in the system to expand with rising temperature and pressure.
 
 
 
