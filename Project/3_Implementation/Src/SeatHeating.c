@@ -8,11 +8,10 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#include "project1.h"
-#include "project2.h"
-#include "project3.h"
-#include "project4.h"
-
+#include "../inc/project1.h"
+#include "../inc/project2.h"
+#include "../inc/project3.h"
+#include "../inc/project4.h"
 int main(void)
 {
     uint16_t temp;
