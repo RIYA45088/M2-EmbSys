@@ -8,8 +8,9 @@
 1. Requirements
     1. High level requirements
     1. Low level requirements
-1. Block Diagram and Blocks explanation
-    1. Block Diagram
+1. Behavoural & Structural Diagram with explanation
+    1. Behavioural Diagram
+    1. Structural Diagram
     1. Sensors
     1. Actuators
 1. Test plan and Output
