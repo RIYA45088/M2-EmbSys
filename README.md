@@ -1,7 +1,7 @@
 # M2_EmbSys Seat Heating System
 # Table of content
 1. About the Seat Heating system
-    1. Description / Abstract
+    1. Description/Abstract
     1. Features
     1. Components Used
     1. 4W's & 1H and S.W.O.T analysis
