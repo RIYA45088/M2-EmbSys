@@ -59,7 +59,7 @@ void TurnLED_ON();
 void TurnLED_OFF();
 
 /**
- * @brief Activity 1 to Turn ON LED if switches for Button sensor and Heator sensor are pressed 
+ * @brief project 1 to Turn ON LED if switches for Button sensor and Heator sensor are pressed 
  * 
  */
 int project1_LED(void);
