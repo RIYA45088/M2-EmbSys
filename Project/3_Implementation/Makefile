@@ -1,9 +1,9 @@
-PROJ_NAME = SeatHeatApp
+PROJ_NAME = SeatHeating
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = SeatHeatingApp.c\
+SRC = SeatHeating.c\
 src/project1.c\
 src/project2.c\
 src/project3.c\
