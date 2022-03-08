@@ -1,5 +1,5 @@
 
-## Discription
+## Description
 
 A heating system is a mechanism for maintaining temperatures at an acceptable level ,by using thermal energy within Everywhere like home , cars etc. It helps the system to raise the temperature of an enclosed space for the primary purpose of ensuring the comfort of the occupants.The Seat Heating control system is mostly  used to control the temperature of a car seat. When a passenger or a driver of the car sits on the car seat, the button sensor gets activated (which acts as one switch). After that, the user has to turn on the heater(It's called the recirculation button, and it plays an important role in the heat).The temperature sensors work by measuring the temperature that's being given off by the thermostat and/or the coolant itself, and it also  keeps monitoring and recording the temperature and sends the analog value to the microcontroller ATmega328. The microcontroller takes the analog input of the temperature sensor and gives output a temperature value through  USART(universal synchronous and asynchronous receiver and transmitter).
 
@@ -64,7 +64,41 @@ The longer the seat cushion stays on, the hotter it gets. If it  stayed "on" for
 |-------|------|------|
 | LLR1 | The digitized temperature input is visualized using Pulse Width Modulation.| 
 | LLR2 | The system runs effectively on Windows 2000 server but it will also run equally well on compatible operating systems.  | |
-| LLR3 | The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.| | 
+| LLR3 | The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.| |
+
+# Behavioural Diagram
+
+![Diagram](https://user-images.githubusercontent.com/98817564/155674552-f3e555a1-4a21-4144-8e57-7bbd622dc833.png)
+
+## Microcontroller
+Microcontroller enables to measure the heat output as well as control a circulation pump.
+
+# Sensors
+ If your vehicle has automatic climate control, it uses sensors to monitor the cabin, and then opens or closes the blend doors and outside flap as needed to maintain the         temperature have Been set.
+ 
+## Temperature Sensors
+Within heating systems, temperature sensors are used to measure the current temperature. They forward the information to a central control where it is compared to the target or set values.
+
+## Power Supply
+ The purpose of a mains power supply is to convert the power delivered to its input by the sinusoidally alternating mains electricity supply into power available at its output in the form of a smooth and constant direct voltage.Power supply operates on an AC input voltage and generates a DC output voltage.
+ 
+ ## Heater Core
+ Heater Core basically acts as a heat exchanger. It allows coolant to flow through, and this flow of coolant is regulated by the heater control valve. As the engine's heat is carried by coolant into the heater core, the device starts to get warm.
+ 
+ ## Actuator
+actuators are those which helps in  operating the blend doors correctly.
+
+ ## LED
+ When this Led flicks , it means that the coolant level is running low. It may also mean the possibility of the engine overheating and you need to stop your vehicle immediately.. 
+ 
+## Fan
+When you turn on the fan, a blower motor sends the air warmed by the heater core into the cabin.
+
+
+
+
+
+
  
 
 
