@@ -1,10 +1,12 @@
 
 # M2_EmbSys Seat Heating System
 
+![codiga](https://user-images.githubusercontent.com/98817564/157229614-c3984e31-a577-4272-8f81-3d3a4128bc70.jpg)
+
+
 # Table of content
 1. About the Seat Heating system
     1. Description
-    1. Features
     1. Components Used
     1. 4W's & 1H and S.W.O.T analysis
 1.  Code Analysis
