@@ -101,39 +101,115 @@ When you turn on the fan, a blower motor sends the air warmed by the heater core
 
 ![Structural Diagram png](https://user-images.githubusercontent.com/98817564/155724258-2d726c05-09fd-43ea-8878-25d478d96fbb.png)
 
-# Heating Core
+## Heating Core
 Heater Core used in heating the cabin of a vehicle. The heater core is a small 'radiator' that is connected to the engine cooling system.
 
-# Heating Control Engine
+## Heating Control Engine
 The warmth from the engine goes from the radiator to the heater core, which basically acts as a heat exchanger. It allows coolant to flow through, and this flow of coolant is regulated by the heater control valve. As the engine's heat is carried by coolant into the heater core, the device starts to get warm.
 
-# Water Pump
+## Water Pump
 A working water pump is vital for the engine; if the water pump doesn't work, the engine will overheat. water pump doesn't need to be changed in regular mileage intervals.The water pump delivers the flow of coolant through the system.
 
-# Hot Coolant
+## Hot Coolant
 The hot coolant passes down through the radiator, it cools down.
 
-# Thermistor
+## Thermistor
 When the engine reaches normal operating temperature, the thermostat opens, allowing the flow of hot coolant through the radiator. 
 The thermistor controls the temperature of the boiler water. On one terminal, it connects to the temperature setting or the potentiometer. Depending on the temperature, it provides a given amount of resistance. 
 
-# Radiators
+## Radiators
 Radiators work through a heat transfer process called convection. When water in the radiator is heated, the surrounding air is also heated up via convection and this hot air is then moved around the room as the air circulates.
 
-# Blower Motor
+## Blower Motor
 The blower motor turns the blower fan, sending the air through your air ducts and into the car . 
 
-# Hot Water Valve
+#3 Hot Water Valve
  It Desires water temperature and then the valve mixes hot water from your tank with regular cold water until it gives you the temperature you want.
  
- # Cabin Air Filter
+ ## Cabin Air Filter
  An air cabin filter is an important component in any vehicle's heating System. It helps protect the passengers from contaminants in the air they breathe.
  
- # Fresh Air
+ ## Fresh Air
  Adding fresh air to a heating system accomplishes two primary indoor air quality goals. It pressurizes a building and increases indoor air quality by diluting  polluted or stale indoor air.
  
- # Coolant Expansion Tank
+ ## Coolant Expansion Tank
   It allows the coolant, the antifreeze, and the air in the system to expand with rising temperature and pressure.
+  
+  # Imagesandvideos
+  
+  #### Process 1:
+
+|OFF|OFF|
+|:--:|:--:|
+|![Simulation1](https://user-images.githubusercontent.com/98817564/157196953-2bc1f0d4-3c7b-4faf-8151-17c8f328ff19.png) | ![simulation off](https://user-images.githubusercontent.com/98817564/157197515-68c2a6fa-0d89-408f-8045-c6c3fe965829.jpg)|
+
+
+
+
+|OFF|ON|
+|:--:|:--:|
+| ![p1-3](https://user-images.githubusercontent.com/98817564/157233744-40059401-8f8c-4d78-9912-0233205c581d.jpg)| ![process_1 on](https://user-images.githubusercontent.com/98817564/157198937-4c792a2d-6dd7-44c0-9116-e36e564e02e5.jpg) |
+
+
+
+#### Process 2:
+
+
+|OFF|ON|
+|:--:|:--:|
+| ![p2 -1](https://user-images.githubusercontent.com/98817564/157215012-1d29d3ad-3ffb-4936-a668-ed30c4288a55.jpg)| ![p2-2](https://user-images.githubusercontent.com/98817564/157215286-735a1692-7153-468b-a06f-d0b0514ecb38.jpg) |
+
+|OFF|ON|
+|:--:|:--:|
+|![p2-3](https://user-images.githubusercontent.com/98817564/157215786-efef3e8c-a5a7-4e64-99d4-df8fbec78fb3.jpg)| ![p2-4](https://user-images.githubusercontent.com/98817564/157215803-fdc75517-91f7-4022-9b61-97a6a73b7c3e.jpg) |
+
+
+#### Process 3:
+
+|OFF|ON|
+|:--:|:--:|
+|![p3-1](https://user-images.githubusercontent.com/98817564/157217173-1e2f9325-b7de-496e-b0ad-c5656f898e52.jpg)| ![p3-2](https://user-images.githubusercontent.com/98817564/157217183-72650b4d-85b4-471d-aefd-cb95f28d4a96.jpg) |
+
+
+|OFF|ON|
+|:--:|:--:|
+|![p3-3](https://user-images.githubusercontent.com/98817564/157217500-aaebc33e-9206-40de-95d6-db37214fe268.jpg)| ![p3-4](https://user-images.githubusercontent.com/98817564/157217506-c1a52980-0ec6-48a2-92aa-62505056d31f.jpg) |
+
+
+#### Process 4:
+
+|OFF|ON|
+|:--:|:--:|
+|![p4-1](https://user-images.githubusercontent.com/98817564/157218166-892a08a2-1ca5-47c6-a053-e96a596689a9.jpg)| ![p4-2](https://user-images.githubusercontent.com/98817564/157218186-7a74c523-7461-4e2a-8294-0a5bbb9b61aa.jpg) |
+
+|OFF|ON|
+|:--:|:--:|
+|![p4-3](https://user-images.githubusercontent.com/98817564/157218201-46f59f7d-7190-4f6e-a1c8-89d3650324b9.jpg)|![p4-4](https://user-images.githubusercontent.com/98817564/157218213-3247b174-3566-40b8-8371-1a7d47a0dad6.jpg) |
+
+
+
+
+
+
+
+#### TEST PLAN:
+### High Level Test plan:
+| ID    | Description                             | Expected O/P | Actual O/P | Type of Test |
+|-------|-----------------------------------------| ------------ | ---------- | ------------ |
+| HL_01  |Front page                   |  Passed   | Successful   |Requirement |
+| HL_01  |sensing                          |   Passed     | Successful     | Scenario|
+| HL_03  |enable blinking led             | Passed     |Successful    | Boundary   |
+
+
+### Low Level Test Plan:
+| ID    | Description           | Expected O/P | Actual O/P | Type of Test | 
+|-------|-----------------------| ------------ | -----------| ------------ |
+| LL_01  |Open the app           |   Passed    |    Successful  | Requirement  |
+| LL_02  |View the board| Passed        |    Successful | Scenario     |
+| LL_03  |Reserve your possible seat     |  Passed      | Successful  | Boundary     |
+
+
+
 
 
 
