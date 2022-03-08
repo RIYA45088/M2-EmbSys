@@ -17,7 +17,7 @@
 1. About the Seat Heating system
     1. Description
     1. Components Used
- 2.  S.W.O.T analysis
+2.  S.W.O.T analysis
     1. Strength
     1. Weakness
     1. Opportunities
