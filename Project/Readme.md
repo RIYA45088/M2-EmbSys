@@ -17,11 +17,12 @@
 1. About the Seat Heating system
     1. Description
     1. Components Used
-    1. 4W's & 1H and S.W.O.T analysis
+ 2.  S.W.O.T analysis
     1. Strength
     1. Weakness
     1. Opportunities
     1. Threat
+    1. 4W & 1H
 
 ### Description
 
