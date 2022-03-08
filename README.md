@@ -16,11 +16,14 @@
 1. Test plan and Output
     1. High level test plan
     1. Low level test plan
-1. Application
+
+
+
+# Code Analysis
+![codiga](https://user-images.githubusercontent.com/98817564/157233154-3518ceec-f124-423a-815f-0a230a26a6c9.jpg)
 
 
 | Build | Code Quality Score | Code Grade | Codacy | Cpp_Check | Valgrind | Unity |
 |--|--|--|--|--|--|--|
-| [![Build](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml) | ![Code Quality](https://api.codiga.io/project/31695/score/svg) | ![Code Grade](https://api.codiga.io/project/31695/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d9a2e27dc874d89887a518f8635a8db)](https://www.codacy.com/gh/RIYA45088/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RIYA45088/M2-EmbSys&amp;utm_campaign=Badge_Grade) | [![cpp_check](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml) | [![Valgrind](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml) | [![unity](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml)
-
+| [![Build](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml) | ![Code Quality](https://api.codiga.io/project/31713/score/svg) | ![Code Grade](https://api.codiga.io/project/31713/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d9a2e27dc874d89887a518f8635a8db)](https://www.codacy.com/gh/RIYA45088/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RIYA45088/M2-EmbSys&amp;utm_campaign=Badge_Grade) | [![cpp_check](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml) | [![Valgrind](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml) | [![unity](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml)
 
