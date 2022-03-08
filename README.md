@@ -19,16 +19,8 @@
 1. Application
 
 
-![Code Quality](https://api.codiga.io/project/31695/score/svg)
+| Build | Code Quality Score | Code Grade | Codacy | Cpp_Check | Valgrind | Unity |
+|--|--|--|--|--|--|--|
+| [![Build](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml) | ![Code Quality](https://api.codiga.io/project/31695/score/svg) | ![Code Grade](https://api.codiga.io/project/31695/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d9a2e27dc874d89887a518f8635a8db)](https://www.codacy.com/gh/RIYA45088/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RIYA45088/M2-EmbSys&amp;utm_campaign=Badge_Grade) | [![cpp_check](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml) | [![Valgrind](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml) | [![unity](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml)
 
-![Code Grade](https://api.codiga.io/project/31695/status/svg)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d9a2e27dc874d89887a518f8635a8db)](https://www.codacy.com/gh/RIYA45088/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RIYA45088/M2-EmbSys&amp;utm_campaign=Badge_Grade)
-
-[![Build](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml)
-
-[![cpp_check](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/cpp_check.yml)
-
-[![unity](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/unity.yml)
-
-[![Valgrind](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/Valgrind.yml)
