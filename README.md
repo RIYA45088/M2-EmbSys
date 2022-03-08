@@ -24,3 +24,5 @@
 ![Code Grade](https://api.codiga.io/project/31695/status/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7d9a2e27dc874d89887a518f8635a8db)](https://www.codacy.com/gh/RIYA45088/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RIYA45088/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
+[![Build](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/RIYA45088/M2-EmbSys/actions/workflows/build.yml)
