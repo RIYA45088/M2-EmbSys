@@ -48,10 +48,7 @@
 |![p4-3](https://user-images.githubusercontent.com/98817564/157218201-46f59f7d-7190-4f6e-a1c8-89d3650324b9.jpg)|![p4-4](https://user-images.githubusercontent.com/98817564/157218213-3247b174-3566-40b8-8371-1a7d47a0dad6.jpg) |
 
 
-## videos
 
-
-https://user-images.githubusercontent.com/98817564/157219853-a5fec60c-0381-4588-bb34-331171f27b7e.mp4
 
 
 
